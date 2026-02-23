@@ -1,0 +1,3 @@
+- It went [public](https://en.wikipedia.org/wiki/Public_company) in **1997**
+- Began selling music and videos in **1998**
+- Began international operations in **1998**

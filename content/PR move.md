@@ -1,0 +1,1 @@
+A strategic action made by a company or an individual made to influence public opinion, build reputation or manage brand’s image. 

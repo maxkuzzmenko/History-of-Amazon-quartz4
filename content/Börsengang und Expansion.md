@@ -1,0 +1,3 @@
+- Ging im Jahr **1997** an die [Börse](https://de.wikipedia.org/wiki/Börsengang)
+- Begann **1998** mit dem Verkauf von Musik und Videos
+- Startete **1998** seine ersten internationalen Aktivitäten

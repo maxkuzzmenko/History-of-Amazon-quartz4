@@ -1,0 +1,1 @@
+Im Jahr **1997** wurde Amazon von **[Barnes & Noble](https://de.wikipedia.org/wiki/Barnes_%26_Noble)** verklagt, weil das Unternehmen behauptete, die „weltgrößte Buchhandlung" zu sein – obwohl Amazon technisch gesehen nur ein **Buchvermittler** und kein klassisches Buchgeschäft war.

@@ -1,0 +1,1 @@
+Walmart sued Amazon on October 16, 1998, alleging that Amazon **had stolen Walmart's trade secrets by hiring former Walmart executives**. Although this suit was also settled out of court, it caused Amazon to implement internal restrictions and the reassignment of the former Walmart executives.

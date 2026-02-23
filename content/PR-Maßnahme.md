@@ -1,0 +1,1 @@
+Eine strategische Aktion, die von einem Unternehmen oder einer Einzelperson durchgeführt wird, um die öffentliche Meinung zu beeinflussen, Reputation aufzubauen oder das Image der Marke zu verwalten.
