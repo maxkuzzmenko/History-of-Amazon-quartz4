@@ -16,4 +16,6 @@ And this is where it all begins...
 [[Geschichte vom Logo; Logo History]]<br>
 [[Amazon Now]]<br>
 
-[[Sources|Quellen / Sources]]
+
+[[Sources|Quellen]]<br>
+[Quallen](https://de.wikipedia.org/wiki/Qualle)
