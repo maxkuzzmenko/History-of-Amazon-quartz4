@@ -14,7 +14,7 @@ For instance, the current **S3 Standard** storage pricing in the **Frankfurt** r
 | First 50 TB / Month | ```$0.0245 per GB``` |
 | Next 450 TB / Month | ```$0.0235 per GB``` |
 | Over 500 TB / Month | ``$0.0225 per GB``   |
-50 GB of storage = 50 * $0.0245 / Month = $1.225 / Month
+50 GB of storage = 50 * \$0.0245 / Month = \$1.225 / Month
 
 And some EC2 pricing also in the Frankfurt region:
 
@@ -24,7 +24,7 @@ And some EC2 pricing also in the Frankfurt region:
 | t4g.micro           | ``$0.0096``           | 2    | 1 GiB     | Up to 5 Gigabit     |
 | u7in-24tb.224xlarge | ``$326.6006``         | 896  | 24576 GiB | 200 Gigabit         |
 
-month of 24/7 running a **t4g.nano** costs *(est.)*:
-$0.0048 / Hour * 24 * 30 = $3.456 / Month
+month of 24/7 running a **t4g.nano** costs *(est.)*:<br>
+\$0.0048 / Hour * 24 * 30 = \$3.456 / Month
 
 That instance power is enough for the most of young startups
