@@ -1,6 +1,6 @@
 - Gab allein im Jahr 2025 über **18 Millionen Dollar** für [[Lobbying (DE)|Lobbying]] aus – zählt damit zu den größten Unternehmenslobbyisten der USA
 - Hat sich aggressiv gegen Ermittlungen der [[FTC (DE)|FTC]] gewehrt, ob Amazon zu viel Marktmacht gegenüber Verkäufern und Wettbewerbern besitzt
-- Widersetzte sich massiv den Gewerkschaftsbemühungen; die **[[2022 Staten Island Union Vote|Gewerkschaftsabstimmung in Staten Island 2022]]** war ein historischer Sieg *gegen* Amazons Widerstand
+- Widersetzte sich massiv den Gewerkschaftsbemühungen; die **[[2022 Staten Island Gewerkschaftsabstimmung|Gewerkschaftsabstimmung in Staten Island 2022]]** war ein historischer Sieg *gegen* Amazons Widerstand
 - Hat gegen die Erhöhung des bundesweiten Mindestlohns gelobbyt – und gleichzeitig den eigenen Mindestlohn angehoben, was oft als [[PR-Maßnahme]] gesehen wird
 - Wurde stark kritisiert, in manchen Jahren kaum oder gar keine Bundessteuer gezahlt zu haben – was Debatten über die Besteuerung von Großkonzernen auslöste
 - [[AWS (Übersicht)|AWS]] hält wichtige Staatsverträge ([[CIA (DE)|CIA]], [[DoD (DE)|DoD]]) und verschafft Amazon damit erheblichen Einfluss in Washington
