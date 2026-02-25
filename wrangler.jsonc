@@ -3,9 +3,9 @@
   "compatibility_date": "2026-02-23",
   "assets": {
     "directory": "./public"
-  }
+  },
   "observability": {
-    "enabled": false,
+    "enabled": true,
     "head_sampling_rate": 1,
     "logs": {
       "enabled": true,
