@@ -1,0 +1,2 @@
+- Amazon's own healthcare service, originally launched in **2019** starting with just Amazon employees in Seattle as a small test
+- Offered both virtual (video call) and in-person doctor visits. Amazon later tried to expand it to other companies as a paid service- Shut down in **2022**, despite being on the verge of a major national expansion

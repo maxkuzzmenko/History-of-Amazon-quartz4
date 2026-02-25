@@ -1,0 +1,4 @@
+- A special version of Amazon's app store, available on Android, where apps were **actually free**- not just free to download, but every in-app purchase was free too
+- Amazon paid developers based on how many minutes users spent inside their app, rather than charging users directly
+- Marketed with the tagline **"Actually Free"**
+- Shut down in **2019** after four years

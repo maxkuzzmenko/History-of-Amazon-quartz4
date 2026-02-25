@@ -20,12 +20,12 @@
 | [[Amazon Fire Phone launch]]                                                   | 2014     |
 | [[Twitch Acquisition]]                                                         | 2014     |
 | [[Amazon Echo launch]]                                                         | 2015     |
-| [Amazon Underground](https://en.wikipedia.org/wiki/Amazon_Underground) release | 2015     |
+| [[Amazon Underground]] release | 2015     |
 | [[Whole Foods Acquisition]]                                                    | 2017     |
 | [Amazon Go](https://en.wikipedia.org/wiki/Amazon_Go) launch                    | 2018     |
 | [[$1 Trillion Market Cap]]                                                     | 2018     |
 | [[Minimal Wage Raise]]                                                         | 2018     |
-| [Amazon Care](https://en.wikipedia.org/wiki/Amazon_Care) launch                | 2019     |
+| [[Amazon Care]] launch                | 2019     |
 | [[Bezos Steps Down as a CEO]]                                                  | 2021     |
 | Amazon acquires [MGM](https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer)       | 2022     |
 | [[2022 Staten Island Union Vote]]                                              | 2022     |

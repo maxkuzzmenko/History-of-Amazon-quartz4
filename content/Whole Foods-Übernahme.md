@@ -3,5 +3,3 @@
 - Als die Übernahme bekannt wurde, brachen die Aktien aller großen US-Supermarktketten ein- die Branche sah darin eine direkte Bedrohung
 - Amazon bot sofort [[Amazon Prime-Start|Prime]]-Mitgliedern Rabatte in Whole-Foods-Filialen an und verknüpfte beide Angebote miteinander
 - Markierte Amazons ersten ernsthaften Vorstoß in den **stationären Handel**- also in echte, physische Geschäfte, die man betreten kann- und in den Lebensmittelmarkt
-
-*Interessante Tatsache:* Der Deal soll in nur wenigen Wochen abgeschlossen worden sein, nachdem Bezos und Whole-Foods-CEO [John Mackey](https://de.wikipedia.org/wiki/John_Mackey) sich persönlich getroffen hatten- ungewöhnlich schnell für eine Übernahme dieser Größe

@@ -1,0 +1,4 @@
+- Eine besondere Version von Amazons App-Store, nur für Android, bei der Apps **wirklich kostenlos** waren- nicht nur gratis zum Herunterladen, sondern auch alle In-App-Käufe
+- Amazon zahlte Entwicklern basierend darauf, wie viele Minuten Nutzer in ihrer App verbrachten- statt die Nutzer direkt zu belasten
+- Vermarktet mit dem Slogan **„Actually Free"** (auf Deutsch: „Wirklich kostenlos")
+- Nach vier Jahren im Jahr **2019** eingestellt

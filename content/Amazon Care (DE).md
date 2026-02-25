@@ -1,0 +1,2 @@
+- Amazons eigener Gesundheitsdienst, ursprünglich im Jahr **2019** gestartet- zunächst nur für Amazon-Mitarbeiter in Seattle als kleiner Test
+- Bot sowohl virtuelle (per Videoanruf) als auch persönliche Arztbesuche an. Amazon versuchte später, den Dienst auch anderen Unternehmen als bezahlte Leistung anzubieten- wurde jedoch **2022** eingestellt, obwohl eine große nationale Expansion unmittelbar bevorstand

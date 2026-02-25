@@ -1,5 +1,5 @@
 - On **April 1, 2022**, workers at Amazon's **JFK8 warehouse** in Staten Island, New York voted to unionise- becoming the **first successful Amazon union in US history**
-- The union was formed by the **[Amazon Labor Union (ALU)](https://en.wikipedia.org/wiki/Amazon_Labor_Union)**, a worker-led effort started from the ground up, led by **Chris Smalls**, a former Amazon employee
+- The union was formed by the **[[Amazon Labor Union|Amazon Labor Union (ALU)]]**, a worker-led effort started from the ground up, led by **Chris Smalls**, a former Amazon employee
 - Final vote count: **2,654 for** unionising vs. **2,131 against**
 - Amazon spent millions on anti-union campaigns, held mandatory meetings where workers had no choice but to sit and listen to anti-union speeches, and brought in outside consultants to talk workers out of voting yes
 - Despite all of this, the ALU won- a massive upset given Amazon's history of defeating previous union attempts

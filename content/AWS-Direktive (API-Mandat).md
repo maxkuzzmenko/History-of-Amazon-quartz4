@@ -21,4 +21,4 @@ Das interne Memo zur API-Direktive (sinngemäß; kein genaues Original bekannt):
 
 7. Danke und noch einen schönen Tag!
 ```
-(es ist übersetzt, [[AWS Launch (API Mandate)|siehe den Original hier]])
+(es ist übersetzt, siehe den Original [[AWS Launch (API Mandate)|hier]])

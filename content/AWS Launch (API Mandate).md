@@ -1,6 +1,6 @@
 - Also called *"Bezos API Mandate"* or *"Amazon API Mandate"*
 - Was issued by Jeff Bezos in 2002 
-- Forced all Amazon teams to expose their data and functionality through service interfaces (APIs) and prohibited any other form of communication
+- Forced all Amazon teams to expose their data and functionality through service interfaces ([[API|APIs]]) and prohibited any other form of communication
 - Boosted team's performance allowing them to code what they have to code without breaking anything the other team has built
 - No specific language the API should be coded on; Everyone used the language they liked, as long as they kept it networked and documented
 

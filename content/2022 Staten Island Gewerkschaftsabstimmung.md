@@ -1,5 +1,5 @@
 - Am **1. April 2022** stimmten Mitarbeiter von Amazons **JFK8-Lager** in Staten Island, New York für eine Gewerkschaft- und wurden damit zur **ersten erfolgreichen Amazon-Gewerkschaft in der US-Geschichte**
-- Die Gewerkschaft wurde von der **[Amazon Labor Union (ALU)](https://en.wikipedia.org/wiki/Amazon_Labor_Union)** gegründet- eine von Arbeitnehmern selbst gestartete Initiative, angeführt von **Chris Smalls**, einem ehemaligen Amazon-Mitarbeiter
+- Die Gewerkschaft wurde von der **[[Amazon Labor Union (DE)|Amazon Labor Union (ALU)]]** gegründet- eine von Arbeitnehmern selbst gestartete Initiative, angeführt von **Chris Smalls**, einem ehemaligen Amazon-Mitarbeiter
 - Endergebnis: **2.654 dafür**, **2.131 dagegen**
 - Amazon gab Millionen für Anti-Gewerkschafts-Kampagnen aus, hielt Pflichtveranstaltungen ab, bei denen Mitarbeiter keine Wahl hatten, als sich Anti-Gewerkschafts-Reden anzuhören, und beauftragte externe Berater, um die Mitarbeiter vom Ja-Stimmen abzuhalten
 - Trotz allem gewann die ALU- ein historischer Erfolg angesichts Amazons Bilanz, frühere Gewerkschaftsversuche stets zu verhindern

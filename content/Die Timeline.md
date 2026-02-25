@@ -20,12 +20,12 @@
 | [[Amazon Fire Phone-Start]]                                               | 2014     |
 | [[Twitch-Übernahme]]                                                      | 2014     |
 | [[Amazon Echo-Start]]                                                     | 2015     |
-| [Amazon Underground](https://en.wikipedia.org/wiki/Amazon_Underground)    | 2015     |
+| [[Amazon Underground (DE)|Amazon Underground]]    | 2015     |
 | [[Whole Foods-Übernahme]]                                                 | 2017     |
 | [Amazon Go](https://de.wikipedia.org/wiki/Amazon_Go)-Start                | 2018     |
 | [[1 Billion Dollar Börsenwert]]                                           | 2018     |
 | [[Mindestlohnerhöhung]]                                                   | 2018     |
-| [Amazon Care](https://en.wikipedia.org/wiki/Amazon_Care)-Start            | 2019     |
+| [[Amazon Care (DE)|Amazon Care]]-Start            | 2019     |
 | [[Bezos tritt zurück als CEO]]                                            | 2021     |
 | Amazon übernimmt [MGM](https://de.wikipedia.org/wiki/Metro-Goldwyn-Mayer) | 2022     |
 | [[2022 Staten Island Gewerkschaftsabstimmung]]                            | 2022     |
