@@ -1,4 +1,4 @@
-- Amazon begann im Jahr **2002**, seine API für externe Entwickler zu öffnen
+- Amazon begann im Jahr **2002**, seine [[API (DE)|API]] für externe Entwickler zu öffnen
 - Die [[API (DE)|API]] erlaubte es Entwicklern, Amazons Produktkatalog und Produktdaten einzusehen und den Amazon-Warenkorb direkt in ihre eigenen Websites einzubinden
 - Kurz gesagt: Entwickler konnten nun rund um Amazon herum bauen
-- Im selben Jahr erließ Bezos die [[AWS-Direktive (API-Mandat)|API-Direktive]], die alle Amazon-internen Entwickler zur ausschließlichen Nutzung von APIs verpflichtete
+- Im selben Jahr erließ Bezos die [[AWS-Direktive (API-Mandat)|API-Direktive]], die alle Amazon-internen Entwickler zur ausschließlichen Nutzung von [[API (DE)|APIs]] verpflichtete
