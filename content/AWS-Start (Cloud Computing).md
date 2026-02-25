@@ -2,7 +2,7 @@ Im Jahr **2006** veröffentlichte AWS den **Simple Storage Service (S3)**, der d
 
 Wenige Monate später folgte die **Elastic Compute Cloud (EC2)**, die Kunden per Knopfdruck sofortigen Zugang zu Rechenleistung verschaffte.
 
-Beide Dienste funktionieren nach dem **Pay-as-you-go**-Prinzip – man zahlt nur für das, was man tatsächlich nutzt.
+Beide Dienste funktionieren nach dem **Pay-as-you-go**-Prinzip- man zahlt nur für das, was man tatsächlich nutzt.
 S3 und EC2 gehören bis heute zu den meistgenutzten Cloud-Diensten weltweit und helfen kleinen wie großen Unternehmen gleichermaßen.
 
 Beispielhafte **S3 Standard**-Preise in der Region **Frankfurt**:

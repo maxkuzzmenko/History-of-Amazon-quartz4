@@ -1,4 +1,4 @@
-*Es gibt keine Daten über Amazon für das Jahr 2026, daher verwenden wir die Daten aus 2025 – die aktuellsten, die derzeit öffentlich verfügbar sind*
+*Es gibt keine Daten über Amazon für das Jahr 2026, daher verwenden wir die Daten aus 2025- die aktuellsten, die derzeit öffentlich verfügbar sind*
 
 Mitarbeiteranzahl: **1.576.000**<br>
 Jahresumsatz: **716,92 Milliarden Dollar**<br>
@@ -19,4 +19,4 @@ Umsatz nach Segment (31. Dezember 2025):
 | Stationäre Geschäfte             | 22,56 Mrd. $  |
 | Sonstiges                        | 5,94 Mrd. $   |
 
-*Hinweis (und gleichzeitig eine interessante Tatsache): „Online Stores" und „Third Party Seller Services" stehen im Plural, weil Amazon.com (USA), Amazon.de (DE), Amazon.co.uk (UK) usw. technisch gesehen separate Shops bzw. Verkäuferdienstleister sind – auch wenn sie alle zu Amazon.com, Inc. gehören.*
+*Hinweis (und gleichzeitig eine interessante Tatsache): „Online Stores" und „Third Party Seller Services" stehen im Plural, weil Amazon.com (USA), Amazon.de (DE), Amazon.co.uk (UK) usw. technisch gesehen separate Shops bzw. Verkäuferdienstleister sind- auch wenn sie alle zu Amazon.com, Inc. gehören.*

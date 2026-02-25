@@ -1,0 +1,4 @@
+- Steht für  **Application Programming Interface**, aber der Namen allein erklärt uns nicht so viel
+- Wenn ein Programm Informationen von einem anderen Programm braucht, stellt es eine Anfrage- und bekommt eine Antwort zurück
+- So ähnlich wie in einem Restaurant: Du gibst eine Bestellung auf, der Kellner geht in die Küche und bringt dir das Essen- du siehst nie, wie es zubereitet wird
+- Eine API ist genau das: Die „Bestelltheke" zwischen zwei Programmen- Programm A sagt, was es braucht, Programm B liefert es- ohne dass A wissen muss, wie B von innen funktioniert

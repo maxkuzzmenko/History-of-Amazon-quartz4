@@ -1,8 +1,8 @@
 - Auch bekannt als *„Bezos API-Direktive"* oder *„Amazon API-Direktive"*
 - Im Jahr **2002** von Jeff Bezos herausgegeben
-- Verpflichtete alle Amazon-Teams, ihre Daten und Funktionen über Schnittstellen (APIs) bereitzustellen – jede andere Form der internen Kommunikation wurde verboten
+- Verpflichtete alle Amazon-Teams, ihre Daten und Funktionen über [[API (DE)|APIs]] bereitzustellen- jede andere Form der internen Kommunikation wurde verboten
 - Steigerte die Leistung der Teams erheblich: Jedes Team konnte unabhängig arbeiten, ohne die Arbeit anderer Teams zu beeinträchtigen
-- Keine vorgeschriebene Programmiersprache – jedes Team nutzte, was es wollte, solange die Schnittstelle vernetzt und dokumentiert war
+- Keine vorgeschriebene Programmiersprache- jedes Team nutzte, was es wollte, solange die Schnittstelle vernetzt und dokumentiert war
 
 Das interne Memo zur API-Direktive (sinngemäß; kein genaues Original bekannt):
 
@@ -13,7 +13,7 @@ Das interne Memo zur API-Direktive (sinngemäß; kein genaues Original bekannt):
 
 3. Jede andere Form der Prozesskommunikation ist verboten: kein direktes Einbinden, kein direktes Lesen fremder Datenspeicher, kein gemeinsames Speichermodell, keine Hintertüren. Kommunikation erfolgt ausschließlich über Netzwerk-Schnittstellen.
 
-4. Die verwendete Technologie spielt keine Rolle. HTTP, Corba, Pubsub, eigene Protokolle – egal.
+4. Die verwendete Technologie spielt keine Rolle. HTTP, Corba, Pubsub, eigene Protokolle- egal.
 
 5. Alle Schnittstellen müssen von Grund auf so gestaltet sein, dass sie auch externen Entwicklern zugänglich gemacht werden können. Keine Ausnahmen.
 

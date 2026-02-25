@@ -1,4 +1,4 @@
-- On **July 5, 2021** — Amazon's 27th anniversary — Jeff Bezos stepped down as CEO
+- On **July 5, 2021**- Amazon's 27th anniversary- Jeff Bezos stepped down as CEO
 - **[Andy Jassy](https://en.wikipedia.org/wiki/Andy_Jassy)**, the founder of [AWS](AWS.md), took over as CEO
 - Bezos moved into the role of **Executive Chairman**, staying involved but no longer running day-to-day operations
-- Just weeks later, Bezos flew to space on his own rocket company **[Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)** — many felt this was the real reason he stepped back
+- Just weeks later, Bezos flew to space on his own rocket company **[Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)**- many felt this was the real reason he stepped back

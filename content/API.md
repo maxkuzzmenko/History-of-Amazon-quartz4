@@ -1,0 +1,4 @@
+- Stands for **Application Programming Interface**, but that name doesn't really help anyone
+- Think of it like ordering at a restaurant: you tell the waiter what you want, the waiter goes to the kitchen and comes back with your food- you never see how it's made, and you don't need to
+- An API works the same way- one program asks another for something, and gets it back, without needing to know how the other program works on the inside
+- Used everywhere: for instance, when you log into a website using your Google account, that website is quietly talking to Google through an API behind the scenes
